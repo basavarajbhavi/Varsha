@@ -185,7 +185,8 @@ class Birthday extends Component{
                 <Card.Text className="text-justify">
                 If everyone in the world was opportune to have a bae like you,
                 I’m sure the World would have been a better and more amazing place.
-               The joy which your love brings to me is what words cannot describe. I love you, bae..
+               The joy which your love brings to me is what words cannot describe.
+               I love you, bae..Live long life Umhaa..
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -265,6 +266,8 @@ class Birthday extends Component{
                 <Card.Text className="text-justify">
                 Another year older and you still look amazing! 
                 I don’t have to be in person to know THAT is true.
+                You are more beautyful Every secound and every minuet 
+                and every year.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -275,7 +278,8 @@ class Birthday extends Component{
                 TUMSE NA DEKHU TOH DIL BECHAIN SA RAHTA 
                 TERE AWAZ BAAR BAAR SUNANE KO HAMESHA MERA MAN KRTA 
                 NA KHI CHEEN MILTA TERE BINA HAR PAL TERA HI NASHA MERE ANKHON ME RAHTA
-                BS TUMSE EK HI AAS HAI KI TERE SATH APNI SARE ZINDAGI JEENA CHAHTA 
+                BS TUMSE EK HI AAS HAI KI TERE SATH APNI SARE ZINDAGI JEENA CHAHTA.
+                HAPPY BITHDAY MY LOVELY WIFE. 
                 </Card.Text>
               </Card.Body>
             </Card>
